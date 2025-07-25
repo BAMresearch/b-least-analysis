@@ -1,0 +1,87 @@
+# NOTICE
+
+This software project, **B-least-calibration**, makes use of the following third-party open source libraries.  
+All are redistributed under licenses that are compatible with the MIT License.
+
+---
+
+## 1. NumPy
+
+- **Website:** https://numpy.org/
+- **License:** BSD 3-Clause License  
+- **Source Code:** https://github.com/numpy/numpy
+
+> © NumPy Developers  
+> A high-performance array and matrix computation package for scientific computing in Python.
+
+---
+
+## 2. pandas
+
+- **Website:** https://pandas.pydata.org/
+- **License:** BSD 3-Clause License  
+- **Source Code:** https://github.com/pandas-dev/pandas
+
+> © The pandas Development Team  
+> Data structures and tools for data analysis and manipulation in Python.
+
+---
+
+## 3. SciPy
+
+- **Website:** https://scipy.org/
+- **License:** BSD 3-Clause License  
+- **Source Code:** https://github.com/scipy/scipy
+
+> © SciPy Developers  
+> Scientific computing tools for optimization, integration, interpolation, and more.
+
+---
+
+## 4. Matplotlib
+
+- **Website:** https://matplotlib.org/
+- **License:** Matplotlib License (based on PSF and MIT)  
+- **Source Code:** https://github.com/matplotlib/matplotlib
+
+> © Matplotlib Development Team  
+> Comprehensive 2D/3D plotting and visualization library for Python.
+
+---
+
+## 5. ReportLab
+
+- **Website:** https://www.reportlab.com/
+- **License:** BSD-style open source license  
+- **Source Code:** https://github.com/MrBitBucket/reportlab
+
+> © ReportLab Inc.  
+> PDF generation toolkit for Python, enabling creation of professional printable documents.
+
+---
+
+## 6. CustomTkinter
+
+- **Website:** https://github.com/TomSchimansky/CustomTkinter
+- **License:** MIT License  
+- **Source Code:** https://github.com/TomSchimansky/CustomTkinter
+
+> © Tom Schimansky  
+> Modern and customizable widgets for Python Tkinter GUIs.
+
+---
+
+## 7. Python Standard Library
+
+This project also uses components from the Python Standard Library (e.g. `tkinter`, `csv`, `datetime`, `itertools`, `threading`), which is provided under the Python Software Foundation License (PSF License Version 2).
+
+- **Website:** https://www.python.org/
+- **License:** https://docs.python.org/3/license.html
+
+---
+
+## Summary
+
+All dependencies used in this project are compatible with the MIT License and allow for redistribution in open source and commercial projects, provided their original licenses are acknowledged.  
+This NOTICE file fulfills that obligation.
+
