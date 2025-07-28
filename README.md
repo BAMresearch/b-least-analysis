@@ -57,13 +57,12 @@ The main interface consists of three panels:
 - Python **3.9** or newer
 - Recommended: use a virtual environment (`venv` or `conda`)
 
-### Install Dependencies
-
-Install all required Python packages via:
-
-```bash
-pip install -r requirements.txt
-```
+### Install libraries
+- [numpy](https://pypi.org/project/numpy/)
+- [pandas](https://pypi.org/project/pandas/)
+- [matplotlib](https://pypi.org/project/matplotlib/)
+- [reportlab](https://pypi.org/project/reportlab/)
+- [customtkinter](https://pypi.org/project/customtkinter/)
 
 ## How to Use
 
