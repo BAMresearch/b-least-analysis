@@ -1,7 +1,7 @@
 """
 Created on Wed Oct 30 15:30:51 2024
 
-@author: tgolub
+@author: Goltin
 """
 
 import customtkinter as ctk
