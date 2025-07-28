@@ -33,6 +33,10 @@ The main interface consists of three panels:
 
 **Right Panel:** Plot with calibration points, fitted curve, confidence band
 
+### Preview
+
+![App Screenshot](screenshot/GUI_b-least-calibration.PNG)
+
 ## Supported Models
 | Category                      | Model Name                  | Equation                                             |
 |------------------------------|-----------------------------|------------------------------------------------------|
