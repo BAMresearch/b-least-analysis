@@ -66,12 +66,6 @@ The main interface consists of three panels:
 - [customtkinter](https://pypi.org/project/customtkinter/)
 
 ## How to Use
-
-```bash
-python main.py
-```
-The GUI launches in full screen mode.
-
 ### Workflow
 **1. Load Calibration Data:** CSV/TXT with columns x, u(x), y, u(y)
 
