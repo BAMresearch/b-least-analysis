@@ -36,19 +36,20 @@ The main interface consists of three panels:
 ## Supported Models
 | Category                      | Model Name                  | Equation                                             |
 |------------------------------|-----------------------------|------------------------------------------------------|
-| ISO 6143 Compatible           | Linear                      | `x = b0 + b1·y`                                      |
-|                              | Polynomial (order n)        | `x = b0 + b1·y + … + bn·yⁿ`                          |
-|                              | Exponential                 | `x = b0 + b1·exp(b2·y)`                              |
-|                              | Power Function              | `x = b0 + b1·y^(1 + b2)`                             |
-| Exponential Growth            | Simple Exponential          | `x = b0·exp(b1·y)`                                   |
-|                              | Exponential w/ Offset       | `x = b0 + b1·(exp(b2·y) - 1)`                        |
-| Saturation Models             | Rational Function           | `x = (b0 + b1·y) / (1 + b2·y)`                       |
-|                              | Hyperbolic Function         | `x = b0 + b1 / (y + b2)`                             |
-| Logarithmic Models            | Logarithmic Function        | `x = b0 + b1·ln(b2·y)`                               |
-|                              | Log-Linear Function         | `x = b0 + b1·ln(y) + b2·y`                           |
-| Biological Curves             | Gompertz Function           | `x = b0·exp(-b1·exp(-b2·y))`                         |
-|                              | Sigmoid Function            | `x = b0 / [1 + exp(-b1·(y - b2))]`                   |
-| Diffusion-like Models         | Square Root Function        | `x = b0 + b1·√y`                                     |
+| ISO 6143 Compatible           | Linear                      | $x = b_0 + b_1 y$                                    |
+|                              | Polynomial (order n)        | $x = b_0 + b_1 y + \dots + b_n y^n$                  |
+|                              | Exponential                 | $x = b_0 + b_1 e^{b_2 y}$                            |
+|                              | Power Function              | $x = b_0 + b_1 y^{(1 + b_2)}$                        |
+| Exponential Growth            | Simple Exponential          | $x = b_0 e^{b_1 y}$                                  |
+|                              | Exponential w/ Offset       | $x = b_0 + b_1 (e^{b_2 y} - 1)$                      |
+| Saturation Models             | Rational Function           | $x = \frac{b_0 + b_1 y}{1 + b_2 y}$                  |
+|                              | Hyperbolic Function         | $x = b_0 + \frac{b_1}{y + b_2}$                      |
+| Logarithmic Models            | Logarithmic Function        | $x = b_0 + b_1 \ln(b_2 y)$                           |
+|                              | Log-Linear Function         | $x = b_0 + b_1 \ln(y) + b_2 y$                       |
+| Biological Curves             | Gompertz Function           | $x = b_0 \exp(-b_1 \exp(-b_2 y))$                    |
+|                              | Sigmoid Function            | $x = \frac{b_0}{1 + \exp(-b_1 (y - b_2))}$           |
+| Diffusion-like Models         | Square Root Function        | $x = b_0 + b_1 \sqrt{y}$                             |
+
 
 ## Installation
 
