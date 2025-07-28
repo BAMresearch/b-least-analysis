@@ -98,6 +98,9 @@ The main interface consists of three panels:
 - CSV with full results and metadata
 
 ## Example File Format
+Supported delimiters: tab (`\t`), semicolon (`;`) and comma (`,`).  
+
+The delimiter is auto-detected from the first line of the file.
 ### Calibration Data
 ```
 x;u(x);y;u(y)
