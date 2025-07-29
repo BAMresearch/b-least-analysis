@@ -104,14 +104,14 @@ The delimiter is auto-detected from the first line of the file.
 ### Calibration Data
 ```
 x;u(x);y;u(y)
-10.2;0.1;2;0.01
+10.2;1.0e-1;5.0e-1;1.0e-2
 11.8;0.1;1.0;0.01
-13.5;0.1;1.5;0.01
+13.5;0.1;1.5;1.2e-2
 ```
 ### Measurement Data
 ```
 y;u(y)
-0.8;0.01
+8.0e-1;1.0e-2
 1.4;0.01
 ```
 
