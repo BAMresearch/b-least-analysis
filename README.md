@@ -1,12 +1,12 @@
-# b-least-calibration 
+# b-least-analysis
 *Analysis according to ISO 6143 and beyond*
 
-A comprehensive Python application for calibration modeling — both linear and nonlinear — with full uncertainty propagation, visual inspection, automated reporting (PDF/CSV), and model comparison. Supports a wide range of functions from polynomials and exponentials to sigmoids, and complies with ISO 6143 calibration methodology.
+A comprehensive Python application for analysis modeling — both linear and nonlinear — with full uncertainty propagation, visual inspection, automated reporting (PDF/CSV), and model comparison. Supports a wide range of functions from polynomials and exponentials to sigmoids, and complies with ISO 6143 analysis methodology.
 
 ## Features
-- ISO 6143-compliant calibration analysis
+- ISO 6143-compliant analysis
 
-- Supports 14 different calibration models
+- Supports 14 different analysis models
 
 - Full uncertainty propagation (incl. off-diagonal covariances)
 
