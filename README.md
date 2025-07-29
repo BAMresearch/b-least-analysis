@@ -104,7 +104,7 @@ The delimiter is auto-detected from the first line of the file.
 ### Calibration Data
 ```
 x;u(x);y;u(y)
-10.2;0.1;0.5;0.01
+10.2;0.1;2;0.01
 11.8;0.1;1.0;0.01
 13.5;0.1;1.5;0.01
 ```
